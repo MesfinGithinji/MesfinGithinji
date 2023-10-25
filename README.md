@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mesfin Githinji</h1>
-<h3 align="center">A Software Developer who enjoys bringing to life ideas through easy to use and practical software.</h3>
+<h3 align="center">A Software Developer who enjoys bringing ideas to life through easy to use and practical software.</h3>
 
 <p align="left"> <a href="https://twitter.com/mdevg" target="blank"><img src="https://img.shields.io/twitter/follow/mdevg?logo=twitter&style=for-the-badge" alt="mdevg" /></a> </p>
 
