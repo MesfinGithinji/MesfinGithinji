@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MesfinGithinji](https://github.com/MesfinGithinji)
 
-- 💬 Ask me about **Java,Spring Boot |Python, Django,Flask |JavaScript, Node.js,React | AWS,EC2,S3**
+- 💬 Ask me about **Python, Django,Flask |JavaScript, Node.js,React |Java, Spring Boot |AWS,EC2,S3**
 
 - 📫 How to reach me **mesfingithinji@gmail.com**
 
