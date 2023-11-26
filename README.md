@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdevg" target="blank"><img src="https://img.shields.io/twitter/follow/mdevg?logo=twitter&style=for-the-badge" alt="mdevg" /></a> </p>
 
-- 🔭 I’m currently working on a **web-scrapper**
+- 🔭 I’m currently working on an **API's Project**
 
 - 🌱 I’m currently learning **GraphQL**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MesfinGithinji](https://github.com/MesfinGithinji)
 
-- 💬 Ask me about **Python, Django,Flask |JavaScript, Next.js,React |Java, Spring Boot |AWS,EC2,S3**
+- 💬 Ask me about **Python,Django,Flask |JavaScript, Next.js,React |Java, Spring Boot |AWS,EC2,S3**
 
 - 📫 How to reach me **mesfingithinji@gmail.com**
 
