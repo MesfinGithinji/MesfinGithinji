@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 👯 I’m looking to collaborate on **Distributed Systems, Blockchain & Web3**
+- 👯 I’m looking to collaborate on **Embedded Systems, Blockchain & Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MesfinGithinji](https://github.com/MesfinGithinji)
 
